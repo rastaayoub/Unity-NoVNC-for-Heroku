@@ -27,6 +27,8 @@ RUN set -ex; \
         curl \
         git \
 	    wget \
+	python3-pip \
+	python-pip \
         libtasn1-3-bin \
         libglu1-mesa \
         libqt5webkit5 \
