@@ -29,7 +29,7 @@ RUN set -ex; \
 	    wget \
 	python3-pip \
 	python-pip \
-        python3-tk
+        python3-tk \
         libtasn1-3-bin \
         libglu1-mesa \
         libqt5webkit5 \
